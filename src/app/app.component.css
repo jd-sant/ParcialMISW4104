@@ -1,5 +1,9 @@
-body {
+h1 {
     font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    font-family: Arial, sans-serif;
 }
 
 #header-image{
