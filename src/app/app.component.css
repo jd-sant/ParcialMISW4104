@@ -1,0 +1,27 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#header-image{
+    padding: 10px;
+    padding-left: 0px;
+    margin-left: 0px;
+    border-top: 1px solid rgba(196, 196, 196, 0.575);
+    border-bottom: 1px solid rgba(196, 196, 196, 0.575);
+}
+
+img {
+    width: 100%;
+    max-height: auto;
+}
+
+footer {
+    text-align: center;
+}
+
+#plants-list {
+    padding: 10px;
+    padding-left: 0px;
+    margin-left: 0px;
+    justify-content: space-around;
+}
